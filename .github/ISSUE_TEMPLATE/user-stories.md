@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-**How** [Role]  
- **I need** [Function]  
- **To** [benefit]  
+**As a** [Role]  
+ **I need* [Function]  
+ **So that** [benefit]  
    
  ### Details and assumptions
  * [document what you know]
